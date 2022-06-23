@@ -19,8 +19,11 @@ Ich habe Pygame und Tkinter benutzt
 Die snake.py Datei befindet sich in src/snakevonmats
 
 pypi Link: https://pypi.org/project/snakegamebymats/0.0.4/
+
 github Link: https://github.com/matsadel/snakegame
 
-Virtuelles Environment
+Virtuelles Environment:
+
 python3 -m venv snake-env
+
 Activation: snake-env\Scripts\activate
