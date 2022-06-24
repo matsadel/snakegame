@@ -18,6 +18,8 @@ Ich habe Pygame und Tkinter benutzt
 
 Die snake.py Datei befindet sich in src/snakevonmats
 
+Um code Laufen zu lassen in code directory gehen
+
 pypi Link: https://pypi.org/project/snakegamebymats/0.0.4/
 
 github Link: https://github.com/matsadel/snakegame
